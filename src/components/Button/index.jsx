@@ -1,9 +1,14 @@
-const Button = ({bgColor, text, textSize, textWeight, textColor}) => {
-    return (
-        <button className={`px-2 rounded-lg	w-32 h-10 bg-${bgColor} text-${textSize} font-${textWeight} text-${textColor}`}>
+import { Link } from "react-router-dom"
+
+const Button = ({bgColor, text, textSize, textColor, rounded, width, height, onClick}) => {
+
+    return(
+        <button onClick={async () => await onClick()} className={`${bgColor} p-2 ${rounded ? 'rounded-lg': ''} ${width} ${height} ${textSize} font-semibold ${textColor}`}>
             {text}
         </button>
     )
+
+    
 }
 
 export default Button
