@@ -2,7 +2,7 @@
 
 Participei de uma residência de 3 meses promovida pelo Instituto Rede, que possuiu como Projeto de Finalização do Curso um e-commerce chamado E-REDE STORE. Todo o front foi desenvolvido com base em um figma disponibilizado a todos os participantes da residência.
 
-Esse é o um projeto completo, com back-end e front-end, com base nas aulas que foram ministradas nesses dois núcleos principais.
+Esse é um projeto completo, com back-end e front-end, com base nas aulas que foram ministradas nesses dois núcleos principais.
 Importante salientar que este projeto não foi desenvolvido ao longo do curso, mas de maneira individual por cada participante ao final do mesmo, utilizando as tecnologias ensinadas no mesmo.
 
 ## Funcionalidades do projeto
